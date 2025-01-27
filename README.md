@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **rextivlan/rextivlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,13 +11,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<img src="" width="30">
 -->
 
 ## Hi there 👋
 
 <div style="display: flex; align-items: center;">
     <div style="flex: 1; margin-right: 15px;">
-        <h1 style="margin: 0;">Hi there, I am Ali Affan <img src="" width="30"></h1>
+        <h1 style="margin: 0;">Hi there, I am Ali Affan</h1>
         <p><strong>🎓 Masters of Applied Computer Science</strong> at <strong>Concordia University</strong></p>
         <p><strong>💻 Software Development | AI/ML | Cloud Computing | Database Management Enthusiast</strong></p>
     </div>
@@ -49,6 +48,7 @@ Here are some ideas to get you started:
 ### **🌐 Web Development**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
 
